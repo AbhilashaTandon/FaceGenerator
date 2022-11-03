@@ -9,9 +9,7 @@ import time
 
 imageSize = 64
 
-main_path = 'C:\\Users\\akash\Documents\Programming\Machine Learning\Face Database' 
-
-path = main_path + '\\celebA\\processed_celeba_small\\celeba' #directory w/ the images
+path = 'celebA\\processed_celeba_small\\celeba' #directory w/ the images
 
 MAX_SIZE = 9688
 
